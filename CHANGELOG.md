@@ -295,3 +295,5 @@
   - `getInfo` static function for `Liquidity` (simulate way)
 - Change
   - Update dev dependencies
+
+<!-- Auto-update: 2025-10-21T08:24:43.097908 -->
